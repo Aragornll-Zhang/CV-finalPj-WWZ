@@ -23,8 +23,8 @@ The final Project for the Computer Vision Lesson
 
 # 3. Division of work
 ----------------------------------
-王雨晴: CutMix 部分模型实验， 论文框架梳理与总结
+王雨晴: CutMix 部分模型实验， 论文框架与总结
 
-吴云涛: Mixup 部分模型实验， 数据整理与数据计算
+吴云涛: Mixup 部分模型实验， 论文表格数据整理与计算
 
 张先印: Cutout 部分模型实验，测试数据增强的实验设计、可视化与结果解读

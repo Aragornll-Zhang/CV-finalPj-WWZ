@@ -27,4 +27,4 @@ The final Project for the Computer Vision Lesson
 
 吴云涛: Mixup 部分模型实验， 论文表格数据整理与计算
 
-张先印: Cutout 部分模型实验，测试数据增强的实验设计、可视化与结果解读
+张先印: Cutout 、baseline 部分模型实验，测试数据增强的实验设计、可视化与结果解读

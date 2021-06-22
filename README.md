@@ -1,11 +1,17 @@
 # CV-finalPj-WWZ
 The final Project for the Computer Vision Lesson 
 
+# 0. Trained Models
+----------------------------------
+训练好的模型，见： https://drive.google.com/drive/folders/1zondaRkVs2FVy-PxmKb1jHHrcRzwyqVq
+
+
 # 1. Model And Train
 ----------------------------------
 模型采用 ResNet18 与 CCT7 (transformer),具体模型参数设置，可见 Model.py， Mixup.ipynb, CutMix.ipynb
 
 或模型图:  ResNet18模型图.svg , CCT_transformer.svg
+
 
 
 
